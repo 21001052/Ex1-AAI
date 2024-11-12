@@ -1,7 +1,4 @@
-<H3> Name:  A joans jay authers  </H3>
-<H3>Register No: 212221240019</H3>
-<H3> Experiment 1</H3>
-<H3>DATE: 24.02.2024 </H3>
+
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim:
